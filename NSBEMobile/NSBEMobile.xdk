@@ -1,0 +1,33 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.0",
+    "creationData": {
+      "type": "App Starter",
+      "src": "http://edge-intel.s3.amazonaws.com/samples/production/sample-yoga/sample.zip",
+      "projectGuid": "cfdf00ae-709d-43e9-b4dd-a8a321b14d01",
+      "lastModifiedDate": 1396042741691,
+      "creationDate": 1396042741573
+    },
+    "sourceDirectory": "",
+    "startFile": "index.html",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
+    "services": []
+  }
+}
